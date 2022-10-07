@@ -1,0 +1,48 @@
+.backpink{
+      height:100%;
+      background-color: rgb(238, 217, 225);
+}
+.loginmaindiv{
+      /* border: 2px solid red; */
+      width: 500px;
+      height: 600px;
+      margin: auto;
+      top: 75px;
+      padding: 20px;
+      gap: 20px;
+}
+.pinkbutton{
+      width: 400px;
+      background-color: rgb(220, 34, 96);
+      /* border: 1px solid green; */
+      color: white;
+      font-weight: 600;
+      padding: 10px;
+      margin-top: 25px;
+      margin-bottom: 30px;
+}
+.pinkcolor{
+      color: rgb(220, 34, 96);
+}
+.inputdiv{
+      width: 400px;
+      /* padding: 10px; */
+      margin-top: 25px;
+      margin-bottom: 30px;
+      outline: none;
+      margin-left: 10px;
+}
+
+.inputmaindiv{
+      /* border: 1px solid blue; */
+      background-color: white;
+      display: flex;
+      margin-top: 25px;
+      margin-bottom: 30px;
+      align-items: center;
+      outline: black;
+      width: 450px;
+      height: 50px;
+      /* border: 0.5px solid rgb(85, 84, 82); */
+      /* padding: 10px; */
+}

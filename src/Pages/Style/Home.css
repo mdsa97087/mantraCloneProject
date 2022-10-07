@@ -1,0 +1,13 @@
+.linkimgdiv{
+      /* border: 1px solid green; */
+      gap: 10px;
+      display: grid;
+      grid-template-columns: repeat(7 , 1fr);
+}
+
+   
+
+.linkimg{
+      width: 150px;
+      height: 180px;
+}

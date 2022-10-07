@@ -1,0 +1,82 @@
+*{
+      margin: 0px;
+      padding: 0px;
+}
+
+
+.navbarlogoimg {
+      width: 30px;
+      /* align-items: center; */
+      margin: auto;
+    
+}
+
+.navbardiv {
+      height: 57px;
+      margin-bottom: 10px;
+      position: fixed;
+      z-index: 9999;
+     
+}
+
+/* ----------------------------------FOR MEN--------------------- */
+.mendiv {
+      /* border: 2px solid red; */
+      width: 1100px;
+      top: 65px;
+      margin-left: 100px;
+      position: relative;
+      text-align: left;
+      padding: 20px;
+      background-color: white;
+      z-index: 9999;
+      
+}
+
+
+/* --------------------STUDIO -------------------- */
+
+
+.studioimgdiv{
+      /* border: 2px solid red; */
+      display: flex;
+      text-align: center;
+      margin-top: 25px;
+}
+.studioimg{
+      width: 230px;
+      height: 350px;
+      margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+/* =----------------------FOR PROFILE ----------------------------- */
+
+
+.profilediv {
+      /* border: 2px solid goldenrod; */
+      width: 300px;
+      height: 400px;
+      position: absolute;
+      top: 65px;
+      text-align: left;
+      margin-left: 1200px;
+      background-color: white;
+      padding: 20px;
+      z-index: 9999;
+}
+
+
+
+.profileboxmain :hover {
+      /* border: 2px solid blue; */
+      text-decoration: overline;
+      color: brown;
+}
